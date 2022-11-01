@@ -1,0 +1,2 @@
+Download dataset dan terlebih dahulu dan simpan di direktori yang sama dengan source code
+atau upload file jika menggunakan google colab
